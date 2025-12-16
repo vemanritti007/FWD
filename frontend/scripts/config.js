@@ -1,3 +1,2 @@
-// config.js
-// Change this URL to your deployed backend URL
-const API_BASE = "http://localhost:5000/api"; // <-- Replace with production URL after deployment
+
+const API_BASE = "https://fwd-backend-mbuc.onrender.com/api"; 
